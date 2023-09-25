@@ -1,0 +1,26 @@
+the input:
+"[11 9 23 8 0 4 3 2 1]"
+stack A:
+"[7 6 8 5 0 4 3 2 1]"
+sorted stack A:
+"[8 7 6 5 4 3 2 1 0]"
+instructions:
+"
+pb
+pb
+pb
+ra
+pb
+rra
+pb
+pb
+ra
+pa
+pa
+rb
+pa
+pa
+pa
+pa
+"
+steps: 16
