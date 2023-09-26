@@ -1,4 +1,9 @@
+<h1 align=center>
+
 ![Push-swap](PushSwap.png)
+
+</h1>
+
 
 # Push-Swap Project
 
